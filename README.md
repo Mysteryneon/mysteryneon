@@ -1,83 +1,47 @@
-<div align="center">
-</div>  
-  
+# 👋 Hi, I'm Mahmood Sultan
 
-### <div align="center">I'm Mahmood, a computer engineer looking to specialize in cybersecurity </div>  
-  
+**Cybersecurity Engineer | OSCP Certified | SIEM Automation | Red Teaming Enthusiast**
 
-- 🔭 I’m currently learning on how to be a cybersecurity analyst by learning both the defensive and offensive sides of cyber.   
-  
+I'm passionate about penetration testing, scripting, threat detection, and building automation workflows that support blue and red team operations.
 
-- I have previous experiences in Web developing however looking more into the cyber aspect.   
-  
+---
 
-<br/>  
+## 🧰 Technical Highlights
 
+- 🎯 Offensive Security Certified Professional (OSCP) — [Verify](https://www.credential.net/50d1a222-1613-48b1-a181-6915c28a4da4)
+- 🛠️ Custom Bash/Python scripts for enumeration, WAF bypassing, and post-exploitation
+- 📊 SIEM integration and Elasticsearch/Kibana reporting automation
+- 🧪 Hands-on labs with structured red team documentation  
+- 🛡️ Fluent in detection engineering and adversary emulation
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+---
 
+## 🔗 Portfolio Repositories
 
+| Project | Description |
+|--------|-------------|
+| [Cybersecurity Portfolio](https://github.com/Mysteryneon/cybersecurity-portfolio) | SIEM automation, red team lab notes, and pentesting tools |
+| [SIEM-Automation](https://github.com/Mysteryneon/cybersecurity-portfolio/tree/main/SIEM-Automation) | Kibana CSV/threshold automation |
+| [Bash-Scripts-Pentest](https://github.com/Mysteryneon/cybersecurity-portfolio/tree/main/Bash-Scripts-Pentest) | Kali-ready recon/exploitation toolkit |
+| [Red teaming](https://github.com/Mysteryneon/cybersecurity-portfolio/tree/main/Red%20teaming) | Structured notes from lab work |
 
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-</div>
+---
 
-</td><td valign="top" width="33%">
+## 🔧 Tools & Focus Areas
 
+![OSCP Certified](https://img.shields.io/badge/Certification-OSCP-red)
+![Linux](https://img.shields.io/badge/Platform-Linux-blue)
+![Bash](https://img.shields.io/badge/Scripting-Bash-yellow)
+![Python](https://img.shields.io/badge/Language-Python-green)
+![Kibana](https://img.shields.io/badge/ELK-Kibana-orange)
 
+---
 
-### Backend  
-<div align="center">  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-</div>
+## 📫 Contact
 
-</td><td valign="top" width="33%">
+- Email: mahmoodazizsultan@gmail.com  
+- LinkedIn: [linkedin.com/in/mahmood-sultan-profile](https://linkedin.com/in/mahmood-sultan-profile)
 
+---
 
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahmood-sultan-3b65a51a4/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/mahmoodaziiz" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/https://github.com/Mysteryneon" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-<br/>  
-
-
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=storm200049&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
+**This profile is under continuous development — new tools, notes, and labs added weekly.**
