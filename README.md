@@ -1,47 +1,65 @@
-# 👋 Hi, I'm Mahmood Sultan
+# Mahmood Sultan
 
-**Cybersecurity Engineer | OSCP Certified | SIEM Automation | Red Teaming Enthusiast**
+Cybersecurity Engineer. OSCP.
 
-I'm passionate about penetration testing, scripting, threat detection, and building automation workflows that support blue and red team operations.
+I do two things.
+I build detections that catch attackers.
+And I practice being the attacker, so I know what I'm looking for.
 
----
+Most people pick one side. I think that's a mistake.
+The best detection engineers I know can break in themselves.
+The best pentesters I know can tell you exactly how they'd get caught.
 
-## 🧰 Technical Highlights
+That's the work I care about.
 
-- 🎯 Offensive Security Certified Professional (OSCP) — [Verify](https://www.credential.net/50d1a222-1613-48b1-a181-6915c28a4da4)
-- 🛠️ Custom Bash/Python scripts for enumeration, WAF bypassing, and post-exploitation
-- 📊 SIEM integration and Elasticsearch/Kibana reporting automation
-- 🧪 Hands-on labs with structured red team documentation  
-- 🛡️ Fluent in detection engineering and adversary emulation
-
----
-
-## 🔗 Portfolio Repositories
-
-| Project | Description |
-|--------|-------------|
-| [Cybersecurity Portfolio](https://github.com/Mysteryneon/cybersecurity-portfolio) | SIEM automation, red team lab notes, and pentesting tools |
-| [SIEM-Automation](https://github.com/Mysteryneon/cybersecurity-portfolio/tree/main/SIEM-Automation) | Kibana CSV/threshold automation |
-| [Bash-Scripts-Pentest](https://github.com/Mysteryneon/cybersecurity-portfolio/tree/main/Bash-Scripts-Pentest) | Kali-ready recon/exploitation toolkit |
-| [Red teaming](https://github.com/Mysteryneon/cybersecurity-portfolio/tree/main/Red%20teaming) | Structured notes from lab work |
+📍 UAE. Open to penetration testing roles.
 
 ---
 
-## 🔧 Tools & Focus Areas
+## What I actually do
 
-![OSCP Certified](https://img.shields.io/badge/Certification-OSCP-red)
+**Detection engineering.** I write and tune alerting rules on the Elastic stack. ES|QL, Kibana, threat hunting, SIEM automation. This is my day job.
+
+**Offensive security.** I break into machines for practice and I write up every one like a real engagement, not a CTF walkthrough. Recon, exploitation, privilege escalation. Then how a defender catches each step.
+
+**Automation.** Bash and Python for the repetitive parts. Enumeration, reporting, the stuff nobody wants to do by hand.
+
+---
+
+## Featured work
+
+**[HTB Penetration Test Reports](https://github.com/Mysteryneon/htb-writeups)**
+Retired HackTheBox machines, written up as structured pentest reports. Every one has a findings table, remediation, and a section on how the attack shows up in logs. This is the clearest proof I can show that I can do the work and write it up.
+
+**[Cybersecurity Portfolio](https://github.com/Mysteryneon/cybersecurity-portfolio)**
+SIEM automation, lab notes, and tooling.
+
+**[SIEM-Automation](https://github.com/Mysteryneon/cybersecurity-portfolio/tree/main/SIEM-Automation)** · **[Bash-Scripts-Pentest](https://github.com/Mysteryneon/cybersecurity-portfolio/tree/main/Bash-Scripts-Pentest)**
+
+---
+
+## Stack
+
+![OSCP](https://img.shields.io/badge/Certification-OSCP-red)
+![Elastic](https://img.shields.io/badge/SIEM-Elastic%20%2F%20Kibana-005571)
 ![Linux](https://img.shields.io/badge/Platform-Linux-blue)
-![Bash](https://img.shields.io/badge/Scripting-Bash-yellow)
-![Python](https://img.shields.io/badge/Language-Python-green)
-![Kibana](https://img.shields.io/badge/ELK-Kibana-orange)
+![Bash](https://img.shields.io/badge/Scripting-Bash-4EAA25)
+![Python](https://img.shields.io/badge/Language-Python-3776AB)
+
+Offensive: enumeration, web app testing, privilege escalation, password attacks, some Active Directory.
+Defensive: detection engineering, threat hunting, ES|QL alerting, SIEM automation.
 
 ---
 
-## 📫 Contact
+## Right now
 
-- Email: mahmoodazizsultan@gmail.com  
-- LinkedIn: [linkedin.com/in/mahmood-sultan-profile](https://linkedin.com/in/mahmood-sultan-profile)
+Building out the report library above. Working up from easy machines to harder ones, and into Active Directory.
+Every box gets written up. That's the point of it.
 
 ---
 
-**This profile is under continuous development — new tools, notes, and labs added weekly.**
+## Contact
+
+mahmoodazizsultan@gmail.com
+[LinkedIn](https://linkedin.com/in/mahmood-sultan-profile)
+OSCP verification on request.
